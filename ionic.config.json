@@ -1,0 +1,7 @@
+{
+  "name": "vlille-finder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
